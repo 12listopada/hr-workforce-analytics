@@ -135,7 +135,7 @@ Three-page interactive dashboard built in Power BI Desktop.
 
 ```bash
 # Clone the repository
-git clone https://github.com/12listopada/hr-analytics.git
+git clone https://github.com/12listopada/hr-workforce-analytics.git
 cd hr-analytics
 
 # Install dependencies
